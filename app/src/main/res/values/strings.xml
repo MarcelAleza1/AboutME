@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About ME</string>
+    <string name="mazi_aleza">Mazi Aleza!</string>
+    <string name="bio">
+        Hi, my name is Mazi Aleza.
+        \n\nI love you.
+        \n\nThe kind that is alive and swims around in an aquarium or river, or lake, and definitely the ocean.
+        \n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not o much.
+        \nAnd sometimes I even go fishing.
+        \nAnd even less sometimes, I actually catch something.
+
+    </string>
+</resources>
